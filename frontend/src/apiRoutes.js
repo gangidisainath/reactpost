@@ -1,0 +1,1 @@
+export const h = "https://sainath1729.pythonanywhere.com/api/";

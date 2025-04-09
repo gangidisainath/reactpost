@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axiom": "^0.1.6",
+    "react-router-dom": "^7.3.0"
+  }
+}
